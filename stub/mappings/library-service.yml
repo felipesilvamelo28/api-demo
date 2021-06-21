@@ -1,0 +1,13 @@
+- request:
+    method: GET
+    url: /library
+    headers:
+  response:
+    status: 200
+    latency: 1000
+    headers:
+      content-type: application/json
+      access-control-allow-origin: '*'
+      access-control-allow-methods: 'GET'
+      access-control-allow-headers: 'content-type,access-control-allow-origin,authorization,responseencoding,responsetype,access-control-allow-headers'
+    files: ["../mocks/library-service/library.json"]

@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Segue o canal Jhow",
+        "autor": "Felipe Melo",
+        "editora": "Topzera Mano",
+        "isbn": "1234567890",
+        "quantidade": 10
+    },
+    {
+        "nome": "Segue o canal 2",
+        "autor": "Felipe Melo",
+        "editora": "Topzera",
+        "isbn": "1234567890",
+        "quantidade": 9
+    },
+    {
+        "nome": "Segue o canal 3",
+        "autor": "Felipe Melo",
+        "editora": "Topzera",
+        "isbn": "1234567890",
+        "quantidade": 8
+    },
+    {
+        "nome": "Segue o canal 4",
+        "autor": "Felipe Melo",
+        "editora": "Topzera",
+        "isbn": "1234567890",
+        "quantidade": 7
+    },
+    {
+        "nome": "Segue o canal 5",
+        "autor": "Felipe Melo",
+        "editora": "Topzera",
+        "isbn": "1234567890",
+        "quantidade": 6
+    }
+]
